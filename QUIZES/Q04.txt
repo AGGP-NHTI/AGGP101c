@@ -1,0 +1,71 @@
+Answer the Questions below. 
+Use a separate lines and number your answers! 
+
+Late quizes are incomplete per department rules. 
+
+3 or more incorrect answers will result in an incomplete grade. 
+
+
+
+
+
+1) Unity's Game Object may contain many components. Which component is always present in every Game Objects? 
+
+
+
+2) How do I rename an asset in Unity? (i.e. Script, material, texture ) 
+
+3) After you rename a script file in Unity, what is the next thing you need to do to ensure the script functions? 
+
+
+
+3) Why do we use Time.deltaTime when rotating or moving an object? 
+
+
+
+4) What can be stored in a Boolean variable 
+
+
+
+5) Write a line of code that will get a Transform component from game object the script is on.
+
+	
+* You may not use the transform property build into the game object. 
+
+	* transf is already defined as a member of the class as a type of Transform
+
+	* Write this line of code as you would in a member function (ie. Awake, Start, Update) 
+
+
+
+6. A Boolean statement (or a logical statement) may be written using what three “things”.
+
+
+
+7. Why should you write IF statements using the “{“ and “}” on separate lines? 
+
+
+
+8. What keyword do you use before a block of code that will run when an IF statement is false. 
+
+
+
+9. What is the value of VectorC, given that…
+
+	
+* Vector A = (1,2,3) ; 
+	
+* VectorB = (4,5,6) ; 
+	
+* VectorC = VectorA + VectorB
+
+
+
+10. Write the code that will determine the direction for an object to move given that…
+
+	
+* The object is located at LocationA (vector3) 
+
+	* Will be heading towards LocationB (vector3)
+
+	* Hint: The correct answer requires two “operations”. You can write this as one or two lines of code. 
