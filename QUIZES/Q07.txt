@@ -1,0 +1,8 @@
+1. How do you open the Input Manager in Unity? 
+2. What what is the value type do you get from a Button Input? 
+3. What what is the value type do you get from an Axis Input? 
+4. What are the two parts that define a Ray? 
+5. What does the 'out' keyword do? 
+6. When doing a raycast, what structure holds the information if there is someting found in the Raycast
+7. What is the difference between Raycast() and RaycastAll()?
+
