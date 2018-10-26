@@ -1,0 +1,12 @@
+Answer the questions below. 
+Place each answer on it's own line. 
+
+1. What package do we need to add via using to get access to the functionality for Scene Loading? 
+
+2. What package do we need to add via using to get access to UI components in our script? 
+
+3. If we have a singleton, how many instances can there be in our application at any given time? 
+
+4. What does the keyword "this" refer to? What will the "this" keyword refer to in relation to Unity?
+
+5. Write a line of code that sets a method "OnSceneLoaded" to be called when the scene is loaded. 
