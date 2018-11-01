@@ -1,0 +1,13 @@
+Answer the questions below. 
+Place each answer on it's own line. 
+
+
+1. Write the line of code that ends your stand alone Unity application. 
+
+2. What is the code that will stop the Unity Editor's from playing the current scene. Include the Preprocessor Directives to wrap it correctly so it only runs in the editor. 
+
+3. What do you need to write data to the user preference? 
+
+4. What are types of data can we save using User Preferences? 
+
+5. How do we keep a game object persistant from scene to scene? 
