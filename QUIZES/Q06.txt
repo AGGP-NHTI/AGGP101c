@@ -1,0 +1,27 @@
+Answer the following questions below. 
+
+Please put number your answers and place them on a their own line. 
+
+
+
+1. What are the two components that are required for an object to use Unity's physics system? (Tell me the 3D version only!)
+
+
+
+
+
+
+2. What are the two ways that I can move an object using the Physics system
+
+
+
+3. Write a single line of code that spawns a new object, given the following
+ information:
+'spawnPrefab' is a gameObject variable with the Prefab to spawn 
+'spawnLocation' is a gameObject variable with the location to spawn
+
+'newObject" is a GameObject vairable that will hold the new object after it's been spawned. 
+
+
+
+4. Write two lines of code that use Destroy() with a gameObject named 'deadParrot'?  
